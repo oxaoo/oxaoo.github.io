@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Александр Кулешов — CTO / Engineering Leader"
